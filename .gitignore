@@ -1,0 +1,17 @@
+# Emacs temporary files
+*~
+\#*\#
+.\#*
+
+# Anything temporary
+*.old
+*.swp
+*.swo
+
+# Bundler artifacts
+.bundle
+bin
+vendor/bundle
+
+# Vagrant / Berkshelf artifacts
+.vagrant
